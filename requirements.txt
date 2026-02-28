@@ -1,0 +1,7 @@
+flask
+groq
+twilio
+psycopg2-binary
+chromadb
+python-dotenv
+sentence-transformers
